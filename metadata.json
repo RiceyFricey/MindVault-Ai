@@ -1,0 +1,6 @@
+{
+  "name": "MindVault AI",
+  "description": "A modern, minimalist, and intelligent notes workspace powered by Gemini API with Markdown support, categorization, and contextual AI workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
