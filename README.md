@@ -1,4 +1,7 @@
 THE API IN THE CODE IS DEACTIVATED AND WONT WORK USE YOUR OWN API KEY
+api changes in
+1: server.ts line "20" and line "64"
+2: .env line "10"
 
 ## Run Locally
 
